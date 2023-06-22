@@ -1,7 +1,8 @@
-Major project 2023 - Vehicle Number Recognition Using General Surveillance Camera
+Major project 2023 - Optimization techniques comparrision in cancer type detection
 
-Team Members
+Team Members : 
 
-Harshini Rayasam
-Sreeya Reddy
-Usha Devi
+* Harshini Rayasam
+* Sreeya Reddy
+* Usha Devi
+
